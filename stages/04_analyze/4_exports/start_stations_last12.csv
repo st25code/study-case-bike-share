@@ -1,0 +1,21 @@
+member_casual,start_station_name,trip_count,rn
+casual,Streeter Dr & Grand Ave,50462,1
+casual,DuSable Lake Shore Dr & Monroe St,34230,2
+casual,Michigan Ave & Oak St,24548,3
+casual,DuSable Lake Shore Dr & North Blvd,22320,4
+casual,Millennium Park,22139,5
+casual,Shedd Aquarium,21050,6
+casual,Dusable Harbor,18696,7
+casual,Theater on the Lake,16092,8
+casual,Michigan Ave & 8th St,13144,9
+casual,Adler Planetarium,12506,10
+member,Kingsbury St & Kinzie St,30080,1
+member,Clinton St & Washington Blvd,25693,2
+member,Clark St & Elm St,23552,3
+member,Clinton St & Madison St,23514,4
+member,Canal St & Madison St,19906,5
+member,Clinton St & Jackson Blvd,19732,6
+member,State St & Chicago Ave,18841,7
+member,Wells St & Concord Ln,18650,8
+member,Wells St & Elm St,18577,9
+member,University Ave & 57th St,18224,10

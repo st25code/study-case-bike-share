@@ -1,0 +1,11 @@
+# Ignore data folder
+data/
+data.C/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.log
+.env
+.venv/
+.DS_Store
+
