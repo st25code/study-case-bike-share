@@ -70,5 +70,6 @@ Deliverable: A report with visualizations, key insights, and three recommendatio
 
 - **README.md**: this file
 - **study-case-tasks.pdf**: case study task description
+- **final_presentation.pdf**: presentation of data analysis results to stakeholders
 
 ---
