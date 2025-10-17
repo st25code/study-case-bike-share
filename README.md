@@ -5,8 +5,24 @@
 Deliverable: A report with visualizations, key insights, and three recommendations to increase conversion from casual riders to members.
 
 ## 🗄️ Data
-- **Primary monthly data**: last 12 months (May 2024–May 2025) stored in `data/raw/last_12_month`
-- **Long-term monthly data**: Q2 2020–Q4 2023 stored in `data/raw/long-term_monthly`
+
+The analysis is based on **Cyclistic’s historical trip data**.  
+All raw datasets are available on Divvy’s official repository:  
+🔗 [Divvy Trip Data Archive](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+### 📂 Raw Data
+- **Last 12 months** (May 2024 – May 2025): stored in `data/raw/last_12_months`
+- **Long-term data** (Jan 2021 – Dec 2023): stored in `data/raw/long-term_monthly`
+
+### ⚙️ Processed Data
+Due to the large file size, processed and merged datasets are stored outside of the repository:
+
+- `master_last12` → combined dataset for the last 12 months  
+- `master_longterm` → combined dataset for 2021–2023  
+- `cleaned_last12` / `cleaned_longterm` → cleaned versions of the datasets  
+- `processed_last12` / `processed_longterm` → engineered and feature-enriched tables  
+
+These processed files are **not included** in the repo but can be reproduced by running the preprocessing scripts in `notebooks/` or `scripts/`.
 
 ---
 
