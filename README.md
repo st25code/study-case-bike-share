@@ -65,9 +65,10 @@ These processed files are **not included** in the repo but can be reproduced by 
 - **data/**
   - **raw/**
     - **last_12_month/**: May 2024–May 2025 CSVs
-    - **long-term_monthly/**: Q2 2020–Q4 2023 CSVs
+    - **long-term_monthly/**: 2021-2023 CSVs
   - **processed/**: master_last12.csv, master_longterm.csv, 
                     cleaned_last12.csv, cleaned_longterm.csv
+                    processed_last12.csv, processed_longterm.csv
                     
 - **stages/**
   - **01_ask/**: ask_overview.ipynb
